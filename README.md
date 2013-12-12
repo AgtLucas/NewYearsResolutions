@@ -1,2 +1,1 @@
-New-Year-s-Resolutions
-======================
+New Year's Resolutions
