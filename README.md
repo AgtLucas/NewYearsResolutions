@@ -8,3 +8,4 @@
 * RP2;
 * Keep walking;
 * Change the world;
+* Learn Python;
