@@ -9,3 +9,4 @@
 * Keep walking;
 * Change the world;
 * Learn Python;
+* Learn Ruby;
