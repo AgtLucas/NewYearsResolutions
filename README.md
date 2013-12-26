@@ -7,6 +7,6 @@
 * IMV;
 * RP2;
 * Keep walking;
-* Change the world;
+* Change the world (Baby steps);
 * Learn Python;
 * Learn Ruby;
