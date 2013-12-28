@@ -2,7 +2,7 @@
 
 ### 2014
 
-* New blog (Jekyll? Ghost?);
+* New blog (Jekyll);
 * One blog post per day;
 * IMV;
 * RP2;
