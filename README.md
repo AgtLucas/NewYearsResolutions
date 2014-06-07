@@ -4,9 +4,9 @@
 
 * New blog (Jekyll);
 * ~~One blog post per day;~~ - Failed: http://agtlucas.com/blog/2014/03/01/mission-failed.html
-* ~~IMV;~~
-* ~~RP2;~~
+* ~~IMV;~~ - Aborted
+* ~~RP2;~~ - Aborted
 * Keep walking;
-* Change the world (Baby steps);
+* Change the world (Baby steps); - In progress
 * Learn Python;
-* Learn Ruby;
+* Learn Ruby; - In progress
