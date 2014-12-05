@@ -8,5 +8,5 @@
 * ~~RP2;~~ - Aborted
 * Keep walking;
 * Change the world (Baby steps); - In progress
-* Learn Python;
+* ~~Learn Python~~ - Aborted;
 * Learn Ruby; - In progress
