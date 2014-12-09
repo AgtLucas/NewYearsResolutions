@@ -12,3 +12,6 @@
 * ~~Learn Ruby;~~ - Ok
 
 ### 2015
+
+* "No easy day" (Tatoo);
+* That comics, that project;
