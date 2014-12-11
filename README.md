@@ -14,4 +14,4 @@
 ### 2015
 
 * "No easy day" (Tatoo);
-* That comics, that project;
+* That comic, that project;
