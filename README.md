@@ -18,3 +18,4 @@
 * That comic, that project;
 * ES6;
 * NodeSC;
+* Exor;
