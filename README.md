@@ -19,7 +19,7 @@
 * ES6;
 * NodeSC;
 * Exor;
-* IM show!;
+* Iron Maiden show!;
 * Keep walking;
 * Rewrite AWLKA, Rails to Node.js;
 * Workshops;
