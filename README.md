@@ -23,3 +23,4 @@
 * Keep walking;
 * Rewrite AWLKA, Rails to Node.js;
 * Workshops;
+* iOS;
