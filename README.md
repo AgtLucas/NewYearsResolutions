@@ -24,3 +24,4 @@
 * Rewrite AWLKA, Rails to Node.js;
 * Workshops;
 * iOS;
+* Operation Ghost;
