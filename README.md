@@ -25,4 +25,3 @@
 * Workshops;
 * iOS;
 * Operation Ghost;
-* Simple FTW!
