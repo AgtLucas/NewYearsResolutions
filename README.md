@@ -23,5 +23,5 @@
 * Keep walking;
 * Rewrite AWLKA, Rails to Node.js;
 * Workshops;
-* iOS;
+* iOS and Android app;
 * Operation Ghost;
