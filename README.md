@@ -24,3 +24,4 @@
 * Rewrite AWLKA, Rails to Node.js;
 * Workshops;
 * iOS and Android app;
+* Change the world (Baby steps); - In progress
