@@ -25,3 +25,4 @@
 * Workshops;
 * iOS and Android app;
 * Change the world (Baby steps); - In progress
+* Guitar?;
