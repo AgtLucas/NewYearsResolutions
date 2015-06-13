@@ -17,8 +17,6 @@
 * "No easy day" (Tatoo);
 * That comic, that project;
 * ES6;
-* NodeSC;
-* Exor;
 * Iron Maiden show!;
 * Keep walking;
 * Rewrite AWLKA, Rails to Node.js;
