@@ -18,7 +18,7 @@
 * A11Y;
 * "No easy day" (Tatoo);
 * That comic, that project;
-* ES6;
+* ~~ES6;~~ - Ok
 * Iron Maiden show!;
 * Keep walking;
 * ~~Rewrite AWLKA, Rails to Node.js;~~ - Aborted
