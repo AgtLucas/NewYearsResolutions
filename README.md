@@ -15,7 +15,7 @@
 
 ### 2015
 
-* A11Y;
+* ~~A11Y~~ - Ok;
 * "No easy day" (Tatoo);
 * That comic, that project;
 * ~~ES6;~~ - Ok
