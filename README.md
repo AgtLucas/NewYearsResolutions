@@ -15,7 +15,7 @@
 
 ### 2015
 
-* ~~A11Y~~ - Ok;
+* ~~A11Y;~~ - Ok
 * "No easy day" (Tatoo);
 * That comic, that project;
 * ~~ES6;~~ - Ok
@@ -26,3 +26,4 @@
 * iOS and Android app;
 * Change the world (Baby steps); - In progress
 * Guitar?;
+* React;
