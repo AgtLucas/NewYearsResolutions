@@ -26,4 +26,4 @@
 * iOS and Android app;
 * Change the world (Baby steps); - In progress
 * Guitar?;
-* React;
+* React; - In progress;
