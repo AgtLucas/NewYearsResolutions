@@ -29,3 +29,7 @@
 * React; - In progress
 * Tell the truth!;
 * BrazilJS;
+
+---
+
+LICENSE: [MIT](http://mit.lucas.ninja).
