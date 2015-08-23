@@ -27,7 +27,7 @@
 * Change the world (Baby steps); - In progress
 * Guitar?;
 * React; - In progress
-* Tell the truth!;
+* ~~Tell the truth!;~~
 * BrazilJS;
 
 ---
