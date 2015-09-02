@@ -29,6 +29,8 @@
 * React; - In progress
 * ~~Tell the truth!;~~
 * ~~BrazilJS;~~
+* Aikido - 5º Kyu;
+* 
 
 ---
 
