@@ -33,6 +33,10 @@
 * Aikido - 4º Kyu;
 * Aikido - 3º Kyu;
 
+### 2016
+
+* Aikido - 2º Kyu;
+
 ---
 
 LICENSE: [MIT](http://mit.lucas.ninja).
