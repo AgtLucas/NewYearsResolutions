@@ -19,7 +19,6 @@
 * "No easy day" (Tatoo);
 * That comic, that project;
 * ~~ES6;~~ - Ok
-* Iron Maiden show!;
 * Keep walking;
 * ~~Rewrite AWLKA, Rails to Node.js;~~ - Aborted
 * Workshops;
@@ -27,8 +26,8 @@
 * Change the world (Baby steps); - In progress
 * Guitar?;
 * React; - In progress
-* ~~Tell the truth!;~~
-* ~~BrazilJS;~~
+* ~~Tell the truth!;~~ Ok
+* ~~BrazilJS;~~ Ok
 * Aikido - 5º Kyu;
 * Aikido - 4º Kyu;
 * Aikido - 3º Kyu;
@@ -38,6 +37,7 @@
 * Aikido - 2º Kyu;
 * Aikido - 1º Kyu;
 * Aikido - 1º Dan;
+* Iron Maiden show!;
 
 ---
 
