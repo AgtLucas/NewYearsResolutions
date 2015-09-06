@@ -16,7 +16,7 @@
 ### 2015
 
 * ~~A11Y;~~ - Ok
-* "No easy day" (Tatoo);
+* "No easy day" || Aikido (Tatoo);
 * That comic, that project;
 * ~~ES6;~~ - Ok
 * Keep walking;
