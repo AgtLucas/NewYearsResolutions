@@ -9,7 +9,7 @@
 * ~~IMV;~~ - Aborted
 * ~~RP2;~~ - Aborted
 * ~~Keep walking;~~ - Ok
-* Change the world (Baby steps); - In progress
+* Change the world (Baby steps); - In progress > 2015
 * ~~Learn Python;~~ - Aborted
 * ~~Learn Ruby;~~ - Ok
 
