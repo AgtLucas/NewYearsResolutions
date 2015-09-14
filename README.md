@@ -29,7 +29,6 @@
 * ~~Tell the truth!;~~ Ok
 * ~~BrazilJS;~~ Ok
 * Aikido - 5º Kyu;
-* Aikido - 4º Kyu;
 * Go out;
 
 ### 2016
