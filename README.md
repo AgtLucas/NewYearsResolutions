@@ -24,7 +24,7 @@
 * Workshops;
 * iOS and Android app;
 * Change the world (Baby steps); - In progress
-* Guitar?;
+* ~~Guitar?;~~ Aborted
 * React; - In progress
 * ~~Tell the truth!;~~ Ok
 * ~~BrazilJS;~~ Ok
