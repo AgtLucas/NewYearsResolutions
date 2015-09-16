@@ -30,6 +30,7 @@
 * ~~BrazilJS;~~ Ok
 * Aikido - 5º Kyu;
 * Go out;
+* AWLKA reborn;
 
 ### 2016
 
