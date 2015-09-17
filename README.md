@@ -29,7 +29,7 @@
 * ~~Tell the truth!;~~ Ok
 * ~~BrazilJS;~~ Ok
 * Aikido - 5º Kyu;
-* Go out;
+* ~~Go out;~~ Ok
 * AWLKA reborn;
 
 ### 2016
