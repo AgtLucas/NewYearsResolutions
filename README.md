@@ -34,6 +34,7 @@
 
 ### 2016
 
+* Aikido - 5º Kyu;
 * Aikido - 4º Kyu;
 * Aikido - 3º Kyu;
 * Aikido - 2º Kyu;
