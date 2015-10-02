@@ -28,7 +28,6 @@
 * React; - In progress
 * ~~Tell the truth!;~~ Ok
 * ~~BrazilJS;~~ Ok
-* Aikido - 5º Kyu;
 * ~~Go out;~~ Ok
 * ~~AWLKA reborn;~~ - In progress
 
