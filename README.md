@@ -21,7 +21,7 @@
 * ~~ES6;~~ - Ok
 * Keep walking;
 * ~~Rewrite AWLKA, Rails to Node.js;~~ - Aborted
-* Workshops;
+* ~~Workshops;~~ - Next year
 * iOS and Android app;
 * Change the world (Baby steps); - In progress
 * ~~Guitar?;~~ Aborted
@@ -42,6 +42,7 @@
 * Iron Maiden show!;
 * ORTTH;
 * PodcastPath;
+* Workshops;
 
 ---
 
