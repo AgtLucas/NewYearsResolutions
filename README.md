@@ -17,7 +17,7 @@
 
 * ~~A11Y;~~ - Ok
 * "No easy day" || Aikido (Tatoo);
-* That comic, that project;
+* ~~That comic, that project;~~ - Next year
 * ~~ES6;~~ - Ok
 * Keep walking;
 * ~~Rewrite AWLKA, Rails to Node.js;~~ - Aborted
