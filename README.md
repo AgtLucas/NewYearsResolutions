@@ -19,7 +19,7 @@
 * "No easy day" || Aikido (Tatoo);
 * ~~That comic, that project;~~ - Next year
 * ~~ES6;~~ - Ok
-* Keep walking;
+* Keep walking; :octocat:
 * ~~Rewrite AWLKA, Rails to Node.js;~~ - Aborted
 * ~~Workshops;~~ - Next year
 * iOS and Android app;
