@@ -46,6 +46,7 @@
 * Workshops;
 * WebScar;
 * UK/USA/NW;
+* BrazilJS 2016;
 
 ---
 
