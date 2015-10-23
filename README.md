@@ -36,10 +36,6 @@
 
 * Aikido - 5º Kyu;
 * Aikido - 4º Kyu;
-* Aikido - 3º Kyu;
-* Aikido - 2º Kyu;
-* Aikido - 1º Kyu;
-* Aikido - 1º Dan;
 * Iron Maiden show!;
 * ORTTH;
 * PodcastPath;
@@ -47,6 +43,13 @@
 * WebScar;
 * UK/USA/NW (Pizza's bet);
 * BrazilJS 2016;
+
+### 2017
+
+* Aikido - 3º Kyu;
+* Aikido - 2º Kyu;
+* Aikido - 1º Kyu;
+* Aikido - 1º Dan;
 
 ---
 
