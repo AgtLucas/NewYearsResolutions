@@ -50,6 +50,7 @@
 * Aikido - 2º Kyu;
 * Aikido - 1º Kyu;
 * Aikido - 1º Dan;
+* Aikikai - Japan; 
 
 ---
 
