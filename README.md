@@ -41,7 +41,7 @@
 * PodcastPath;
 * Workshops;
 * WebScar;
-* UK/USA/NW (Pizza's bet);
+* UK/USA/Norway/France (Pizza's bet);
 * BrazilJS 2016;
 
 ### 2017
