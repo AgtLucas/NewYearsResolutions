@@ -33,6 +33,7 @@
 
 ### 2016
 
+* "No easy day" || Aikido (Tatoo);
 * Weather App;
 * Aikido - 5º Kyu;
 * Aikido - 4º Kyu;
