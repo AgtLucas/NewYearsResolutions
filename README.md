@@ -21,7 +21,7 @@
 * Keep walking; :octocat:
 * ~~Rewrite AWLKA, Rails to Node.js;~~ - Aborted
 * ~~Workshops;~~ - Next year
-* iOS and Android app;
+* ~~iOS and Android app;~~ - In progress
 * Change the world (Baby steps); - In progress
 * ~~Guitar?;~~ Aborted
 * React; - In progress
