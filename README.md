@@ -18,7 +18,7 @@
 * ~~A11Y;~~ - Ok
 * ~~That comic, that project;~~ - Next year
 * ~~ES6;~~ - Ok
-* Keep walking; :octocat:
+* ~~Keep walking;~~ - Ok :octocat:
 * ~~Rewrite AWLKA, Rails to Node.js;~~ - Aborted
 * ~~Workshops;~~ - Next year
 * ~~iOS and Android app;~~ - In progress
