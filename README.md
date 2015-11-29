@@ -24,7 +24,7 @@
 * ~~iOS and Android app;~~ - In progress
 * Change the world (Baby steps); - In progress
 * ~~Guitar?;~~ Aborted
-* React; - In progress
+* ~~React;~~ - Ok
 * ~~Tell the truth!;~~ Ok
 * ~~BrazilJS;~~ Ok
 * ~~Go out;~~ Ok
