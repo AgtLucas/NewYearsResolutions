@@ -49,9 +49,12 @@
 * Aikido - 3º Kyu;
 * Aikido - 2º Kyu;
 * Aikido - 1º Kyu;
+* BrazilJS 2017;
+
+### 2018
+
 * Aikido - 1º Dan;
 * Aikikai - Japan;
-* BrazilJS 2017;
 
 ---
 
