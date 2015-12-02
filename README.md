@@ -29,7 +29,7 @@
 * ~~BrazilJS;~~ Ok
 * ~~Go out;~~ Ok
 * ~~AWLKA reborn;~~ - In progress
-* Productivity++;
+* ~~Productivity++;~~
 
 ### 2016
 
