@@ -43,6 +43,7 @@
 * WebScar;
 * UK/USA/Norway/France (Pizza's bet);
 * BrazilJS 2016;
+* GDG Reborn;
 
 ### 2017
 
