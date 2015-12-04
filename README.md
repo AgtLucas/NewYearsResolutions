@@ -38,7 +38,6 @@
 * Aikido - 5º Kyu;
 * Aikido - 4º Kyu;
 * ~~Iron Maiden show!;~~ - Ok! Brasília, March 22th
-* ORTTH;
 * Workshops;
 * WebScar;
 * UK/USA/Norway/France (Pizza's bet);
