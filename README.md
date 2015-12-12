@@ -34,7 +34,7 @@
 ### 2016
 
 * "No easy day" || Aikido (Tatoo);
-* Weather App;
+* Weather App; WIP;
 * Aikido - 5º Kyu;
 * Aikido - 4º Kyu;
 * ~~Iron Maiden show!;~~ - Ok! Brasília, March 22th
