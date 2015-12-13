@@ -44,6 +44,7 @@
 * BrazilJS 2016;
 * GDG Reborn;
 * Bonsai;
+* Talk JS;
 
 ### 2017
 
