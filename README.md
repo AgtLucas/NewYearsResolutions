@@ -45,6 +45,7 @@
 * GDG Reborn;
 * Bonsai;
 * Talk JS;
+* That comic, that project;
 
 ### 2017
 
