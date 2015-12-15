@@ -46,6 +46,7 @@
 * Bonsai;
 * Talk JS;
 * That comic, that project;
+* o.s.hub;
 
 ### 2017
 
