@@ -40,6 +40,7 @@
 - [x] Iron Maiden show!; - Ok! Brasília, March 22th
 - [ ] Workshops;
 - [ ] UK/USA/Norway/France (Pizza's bet);
+- [ ] React Conf Brasil 2016;
 - [ ] BrazilJS 2016;
 - [ ] GDG Reborn;
 - [ ] Bonsai;
