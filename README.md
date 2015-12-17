@@ -33,19 +33,19 @@
 
 ### 2016
 
-* "No easy day" || Aikido (Tatoo);
-* Weather App; WIP;
-* Aikido - 5º Kyu;
-* Aikido - 4º Kyu;
-* ~~Iron Maiden show!;~~ - Ok! Brasília, March 22th
-* Workshops;
-* UK/USA/Norway/France (Pizza's bet);
-* BrazilJS 2016;
-* GDG Reborn;
-* Bonsai;
-* Talk JS;
-* That comic, that project;
-* o.s.hub;
+- [ ] "No easy day" || Aikido (Tatoo);
+- [ ] Weather App; WIP;
+- [ ] Aikido - 5º Kyu;
+- [ ] Aikido - 4º Kyu;
+- [x] Iron Maiden show!; - Ok! Brasília, March 22th
+- [ ] Workshops;
+- [ ] UK/USA/Norway/France (Pizza's bet);
+- [ ] BrazilJS 2016;
+- [ ] GDG Reborn;
+- [ ] Bonsai;
+- [ ] Talk JS;
+- [ ] That comic, that project;
+- [ ] o.s.hub;
 
 ### 2017
 
