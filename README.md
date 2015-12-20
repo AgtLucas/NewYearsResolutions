@@ -15,21 +15,17 @@
 
 ### 2015
 
-* ~~A11Y;~~ - Ok
-* ~~That comic, that project;~~ - Next year
-* ~~ES6;~~ - Ok
-* ~~Keep walking;~~ - Ok :octocat:
-* ~~Rewrite AWLKA, Rails to Node.js;~~ - Aborted
-* ~~Workshops;~~ - Next year
-* ~~iOS and Android app;~~ - In progress
-* Change the world (Baby steps); - In progress
-* ~~Guitar?;~~ Aborted
-* ~~React;~~ - Ok
-* ~~Tell the truth!;~~ Ok
-* ~~BrazilJS;~~ Ok
-* ~~Go out;~~ Ok
-* ~~AWLKA reborn;~~ - In progress
-* ~~Productivity++;~~
+- [x] A11Y;
+- [x] ES6;
+- [x] Keep walking;
+- [x] iOS and Android app; - In progress
+- [x] Change the world (Baby steps);
+- [ ] ~~Guitar?;~~ Aborted
+- [x] React;
+- [x] Tell the truth!;
+- [x] BrazilJS;
+- [x] Go out;
+- [x] Productivity++;
 
 ### 2016
 
