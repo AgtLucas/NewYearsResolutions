@@ -4,14 +4,14 @@
 
 ### 2014
 
-* ~~New blog (Jekyll);~~ - In progress
-* ~~One blog post per day;~~ - Failed: http://agtlucas.com/blog/2014/03/01/mission-failed.html
-* ~~IMV;~~ - Aborted
-* ~~RP2;~~ - Aborted
-* ~~Keep walking;~~ - Ok
-* Change the world (Baby steps); - In progress > 2015
-* ~~Learn Python;~~ - Aborted
-* ~~Learn Ruby;~~ - Ok
+- [x] New blog (Jekyll);
+- [ ] ~~One blog post per day;~~ - Failed: http://agtlucas.com/blog/2014/03/01/mission-failed.html
+- [ ] ~~IMV;~~ - Aborted
+- [ ] ~~RP2;~~ - Aborted
+- [x] Keep walking;
+- [x] Change the world (Baby steps); - In progress > 2015
+- [ ] ~~Learn Python;~~ - Aborted
+- [x] Learn Ruby;
 
 ### 2015
 
