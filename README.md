@@ -30,6 +30,7 @@
 ### 2016
 
 - [ ] Tatoo;
+- [ ] SDC;
 - [ ] Weather App; WIP;
 - [ ] Aikido - 5º Kyu;
 - [ ] Aikido - 4º Kyu;
