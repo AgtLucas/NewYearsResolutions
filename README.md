@@ -39,7 +39,7 @@
 - [ ] UK/USA/Norway/France (Pizza's bet);
 - [ ] React Conf Brasil 2016;
 - [ ] BrazilJS 2016;
-- [ ] GDG Reborn;
+- [ ] GDG Reborn; - WIP;
 - [ ] Bonsai;
 - [ ] Talk JS;
 - [ ] That comic, that project;
