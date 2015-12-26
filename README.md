@@ -44,6 +44,7 @@
 - [ ] Talk JS;
 - [ ] That comic, that project;
 - [ ] o.s.hub;
+- [ ] JSoM; 
 
 ### 2017
 
