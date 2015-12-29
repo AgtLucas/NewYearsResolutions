@@ -10,7 +10,6 @@
 - [ ] ~~RP2;~~ - Aborted
 - [x] Keep walking;
 - [x] Change the world (Baby steps); - In progress > 2015
-- [ ] ~~Learn Python;~~ - Aborted
 - [x] Learn Ruby;
 
 ### 2015
