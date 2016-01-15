@@ -35,7 +35,7 @@
 - [ ] Aikido - 5º Kyu;
 - [ ] Aikido - 4º Kyu;
 - [x] Iron Maiden show!; - Ok! Brasília, March 22th
-- [ ] UK/USA/Norway/France (Pizza's bet);
+- [ ] UK/USA/Norway/France/Estonia (Pizza's bet);
 - [ ] React Conf Brasil 2016;
 - [ ] BrazilJS 2016;
 - [ ] GDG Reborn; - WIP;
