@@ -39,7 +39,7 @@
 - [ ] React Conf Brasil 2016;
 - [ ] BrazilJS 2016;
 - [ ] GDG Reborn; - WIP;
-- [ ] Bonsai;
+- [x] Bonsai;
 - [ ] That comic, that project;
 - [ ] o.s.hub;
 - [ ] JSoM; - WIP;
