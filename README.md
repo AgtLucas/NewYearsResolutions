@@ -31,7 +31,7 @@
 - [ ] Tatoo;
 - [ ] SDC; - WIP;
 - [ ] Weather App; WIP;
-- [ ] Aikido - Bokken;
+- [x] Aikido - Bokken;
 - [ ] Aikido - 5º Kyu;
 - [ ] Aikido - 4º Kyu;
 - [x] Iron Maiden show!; - Ok! Brasília, March 22th
