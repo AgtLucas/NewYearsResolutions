@@ -28,7 +28,7 @@
 
 ### 2016
 
-- [ ] Tatoo;
+- [ ] Tatoo - WIP;
 - [ ] SDC; - WIP;
 - [ ] Weather App; WIP;
 - [x] Aikido - Bokken;
