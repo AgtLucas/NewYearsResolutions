@@ -40,7 +40,7 @@
 - [ ] BrazilJS 2016;
 - [ ] GDG Reborn; - WIP;
 - [x] Bonsai;
-- [ ] That comic, that project;
+- [ ] ~~That comic, that project;~~ Aborted
 - [ ] o.s.hub;
 - [ ] JSoM; - WIP;
 
