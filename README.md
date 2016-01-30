@@ -38,7 +38,6 @@
 - [ ] UK/USA/Norway/France/Estonia (Pizza's bet);
 - [ ] React Conf Brasil 2016;
 - [ ] BrazilJS 2016;
-- [ ] GDG Reborn; - WIP;
 - [x] Bonsai;
 - [ ] ~~That comic, that project;~~ Aborted
 - [ ] o.s.hub;
