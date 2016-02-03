@@ -28,6 +28,7 @@
 
 ### 2016
 
+- [ ] A11Y Rocks;
 - [ ] Tatoo - WIP;
 - [ ] Weather App; WIP;
 - [x] Aikido - Bokken;
