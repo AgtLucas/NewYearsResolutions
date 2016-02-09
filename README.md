@@ -42,6 +42,7 @@
 - [ ] ~~That comic, that project;~~ Aborted
 - [ ] o.s.hub;
 - [ ] JSoM; - WIP;
+- [ ] Web Summit;
 
 ### 2017
 
