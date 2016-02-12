@@ -32,7 +32,7 @@
 - [ ] Tatoo - WIP;
 - [ ] Weather App; WIP;
 - [x] Aikido - Bokken;
-- [ ] Aikido - 5º Kyu;
+- [ ] Aikido - 5º Kyu; WIP;
 - [ ] Aikido - 4º Kyu;
 - [x] Iron Maiden show!; - Ok! Brasília, March 22th
 - [ ] UK/USA/Norway/France/Estonia (Pizza's bet);
