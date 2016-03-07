@@ -44,6 +44,7 @@
 - [ ] JSoM; - WIP;
 - [ ] Web Summit;
 - [ ] RN App;
+- [ ] React Europe;
 
 ### 2017
 
