@@ -43,8 +43,8 @@
 - [ ] o.s.hub;
 - [ ] JSoM; - WIP;
 - [ ] Web Summit;
-- [ ] RN App;
-- [ ] React Europe;
+- [ ] RN App; - WIP;
+- [ ] React Europe; - WIP;
 
 ### 2017
 
