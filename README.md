@@ -45,6 +45,7 @@
 - [ ] Web Summit;
 - [ ] RN App; - WIP;
 - [ ] React Europe; - WIP;
+- [ ] SDCD;
 
 ### 2017
 
