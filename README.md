@@ -40,7 +40,6 @@
 - [ ] BrazilJS 2016;
 - [x] Bonsai;
 - [ ] ~~That comic, that project;~~ Aborted
-- [ ] o.s.hub;
 - [ ] JSoM; - WIP;
 - [ ] Web Summit;
 - [ ] RN App; - WIP;
