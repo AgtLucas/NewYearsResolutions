@@ -33,7 +33,6 @@
 - [ ] Weather App; WIP;
 - [x] Aikido - Bokken;
 - [ ] Aikido - 5º Kyu; WIP;
-- [ ] Aikido - 4º Kyu;
 - [x] Iron Maiden show!; - Ok! Brasília, March 22th
 - [ ] UK/USA/Norway/France/Estonia (Pizza's bet);
 - [ ] React Conf Brasil 2016;
@@ -48,6 +47,7 @@
 
 ### 2017
 
+- [ ] Aikido - 4º Kyu;
 - [ ] Aikido - 3º Kyu;
 - [ ] Aikido - 2º Kyu;
 - [ ] Aikido - 1º Kyu;
