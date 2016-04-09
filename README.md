@@ -36,7 +36,7 @@
 - [x] Iron Maiden show!; - **Ok!** Brasília, March 22th
 - [ ] UK/USA/Norway/France/Estonia (Pizza's bet); WIP;
 - [ ] React Conf Brasil 2016;
-- [ ] BrazilJS 2016;
+- [ ] BrazilJS 2016; - WIP;
 - [x] Bonsai;
 - [ ] ~~That comic, that project;~~ Aborted
 - [ ] JSoM; - WIP;
