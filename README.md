@@ -41,7 +41,7 @@
 - [ ] ~~That comic, that project;~~ Aborted
 - [ ] JSoM; - WIP;
 - [ ] Web Summit;
-- [ ] RN App; - WIP;
+- [x] RN App; - WIP;
 - [ ] React Europe; - WIP;
 - [ ] SDCD;
 
