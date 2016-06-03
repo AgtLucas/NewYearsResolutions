@@ -42,7 +42,7 @@
 - [ ] JSoM; - WIP;
 - [ ] Web Summit;
 - [x] RN App; - **Ok!**;
-- [ ] React Europe; - WIP;
+- [ ] React Europe; - **Ok!**;
 - [ ] SDCD;
 
 ### 2017
