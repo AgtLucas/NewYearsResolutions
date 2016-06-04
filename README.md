@@ -42,20 +42,18 @@
 - [ ] JSoM; - WIP;
 - [ ] Web Summit;
 - [x] RN App; - **Ok!**;
-- [ ] React Europe; - **Ok!**;
+- [x] React Europe; - **Ok!**;
 - [ ] SDCD;
 
 ### 2017
 
+- [ ] React London
+- [ ] React Europe
 - [ ] Aikido - 4º Kyu;
-- [ ] Aikido - 3º Kyu;
-- [ ] Aikido - 2º Kyu;
-- [ ] Aikido - 1º Kyu;
 - [ ] BrazilJS 2017;
 
 ### 2018
 
-- [ ] Aikido - 1º Dan;
 - [ ] Aikikai - Japan;
 
 ---
