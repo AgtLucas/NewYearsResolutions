@@ -29,7 +29,7 @@
 ### 2016
 
 - [ ] A11Y Rocks - WIP;
-- [ ] Tatoo - WIP;
+- [ ] ~~Tatoo - WIP;~~ Aborted
 - [ ] Weather App; WIP;
 - [x] Aikido - Bokken;
 - [x] Aikido - 5º Kyu; **Ok!**;
