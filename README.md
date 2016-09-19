@@ -34,7 +34,7 @@
 - [x] Aikido - Bokken;
 - [x] Aikido - 5º Kyu; **Ok!**;
 - [x] Iron Maiden show!; - **Ok!** Brasília, March 22th
-- [ ] UK/USA/Norway/France/Estonia (Pizza's bet); WIP;
+- [x] ~~UK/USA/Norway/~~ France ~~/Estonia (Pizza's bet);~~ Sorta...;
 - [ ] React Conf Brasil 2016;
 - [ ] BrazilJS 2016;
 - [x] Bonsai;
