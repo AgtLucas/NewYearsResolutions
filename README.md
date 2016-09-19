@@ -39,7 +39,7 @@
 - [ ] BrazilJS 2016;
 - [x] Bonsai;
 - [ ] ~~That comic, that project;~~ Aborted
-- [ ] JSoM; - WIP;
+- [ ] ~~JSoM; - WIP;~~ Aborted
 - [ ] Web Summit;
 - [x] RN App; - **Ok!**;
 - [x] React Europe; - **Ok!**;
