@@ -42,7 +42,6 @@
 - [ ] ~~Web Summit;~~
 - [x] RN App; - **Ok!**;
 - [x] React Europe; - **Ok!**;
-- [ ] SDCD; - WIP;
 
 ### 2017
 
@@ -50,7 +49,6 @@
 - [ ] React Europe
 - [ ] Aikido - 4º Kyu;
 - [ ] BrazilJS 2017;
-- [ ] SDCD;
 
 ### 2018
 
