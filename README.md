@@ -49,6 +49,7 @@
 - [ ] React Europe
 - [ ] Aikido - 4º Kyu;
 - [ ] BrazilJS 2017;
+- [ ] Learn Japanese;
 
 ### 2018
 
