@@ -45,7 +45,7 @@
 
 ### 2017
 
-- [ ] React London
+- [x] React London
 - [ ] React Europe
 - [ ] Aikido - 4º Kyu;
 - [ ] BrazilJS 2017;
