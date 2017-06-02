@@ -30,7 +30,7 @@
 
 - [ ] A11Y Rocks - WIP;
 - [ ] ~~Tatoo - WIP;~~ Aborted
-- [ ] Weather App; WIP;
+- [ ] ~~Weather App;~~
 - [x] Aikido - Bokken;
 - [x] Aikido - 5º Kyu; **Ok!**;
 - [x] Iron Maiden show!; - **Ok!** Brasília, March 22th
