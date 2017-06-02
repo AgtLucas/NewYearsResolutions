@@ -46,14 +46,16 @@
 ### 2017
 
 - [x] React London
-- [ ] React Europe
-- [ ] Aikido - 4º Kyu;
+- [ ] ~~React Europe~~ - Aborted
+- [ ] ~~Aikido - 4º Kyu~~ - Aborted;
 - [ ] BrazilJS 2017;
 - [ ] Learn Japanese;
+- [ ] Reactive Conf;
 
 ### 2018
 
-- [ ] Aikikai - Japan;
+- [ ] ~~Aikikai - Japan~~ - Aborted;
+- [ ] Agent Conf;
 
 ---
 
