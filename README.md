@@ -51,6 +51,7 @@
 - [ ] BrazilJS 2017;
 - [ ] Learn Japanese;
 - [ ] Reactive Conf;
+- [ ] Trip to Norway;
 
 ### 2018
 
