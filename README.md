@@ -52,6 +52,7 @@
 - [ ] Learn Japanese;
 - [ ] Reactive Conf;
 - [ ] Trip to Norway;
+- [ ] Trip to Denmark;
 
 ### 2018
 
