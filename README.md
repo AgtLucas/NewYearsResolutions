@@ -53,6 +53,7 @@
 - [ ] Reactive Conf;
 - [ ] Trip to Norway;
 - [ ] Trip to Denmark;
+- [ ] Learn German;
 
 ### 2018
 
