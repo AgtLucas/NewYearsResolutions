@@ -49,7 +49,7 @@
 - [ ] ~~React Europe~~ - Aborted
 - [ ] ~~Aikido - 4º Kyu~~ - Aborted;
 - [ ] BrazilJS 2017;
-- [ ] Learn Japanese;
+- [ ] ~~Learn Japanese;~~ - Aborted;
 - [ ] Reactive Conf;
 - [ ] Trip to Norway;
 - [ ] Trip to Denmark;
@@ -58,6 +58,7 @@
 
 - [ ] ~~Aikikai - Japan~~ - Aborted;
 - [ ] Agent Conf;
+- [ ] Learn Japanese;
 
 ---
 
