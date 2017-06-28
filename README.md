@@ -45,12 +45,12 @@
 
 ### 2017
 
-- [x] React London
+- [x] React London -London;
 - [ ] ~~React Europe~~ - Aborted
 - [ ] ~~Aikido - 4º Kyu~~ - Aborted;
 - [ ] BrazilJS 2017;
 - [ ] ~~Learn Japanese;~~ - Aborted;
-- [ ] Reactive Conf;
+- [ ] Reactive Conf - Slovakia;
 - [ ] Trip to Norway;
 - [ ] Trip to Denmark;
 - [ ] Learn German;
