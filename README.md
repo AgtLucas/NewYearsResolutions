@@ -48,7 +48,7 @@
 - [x] React London -London;
 - [ ] ~~React Europe~~ - Aborted
 - [ ] ~~Aikido - 4º Kyu~~ - Aborted;
-- [ ] BrazilJS 2017;
+- [ ] ~~BrazilJS 2017~~ - Aborted;
 - [ ] ~~Learn Japanese;~~ - Aborted;
 - [ ] Reactive Conf - Slovakia;
 - [ ] Trip to Norway;
