@@ -50,10 +50,12 @@
 - [ ] ~~Aikido - 4º Kyu~~ - Aborted;
 - [ ] ~~BrazilJS 2017~~ - Aborted;
 - [ ] ~~Learn Japanese;~~ - Aborted;
+- [ ] React Native Conf EU - Poland;
 - [ ] Reactive Conf - Slovakia;
 - [ ] Trip to Norway;
 - [ ] Trip to Denmark;
 - [ ] Learn German;
+- [ ] Tattoo;
 
 ### 2018
 
