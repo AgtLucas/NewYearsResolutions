@@ -55,7 +55,7 @@
 - [ ] Trip to Norway;
 - [ ] Trip to Denmark;
 - [ ] Learn German;
-- [ ] Tattoo;
+- [ ] Tattoo; - WIP;
 
 ### 2018
 
