@@ -45,16 +45,16 @@
 
 ### 2017
 
-- [x] React London -London; - **Ok!**;
+- [x] React London -London - **Ok!**;
 - [ ] ~~React Europe~~ - Aborted
 - [ ] ~~Aikido - 4º Kyu~~ - Aborted;
 - [ ] ~~BrazilJS 2017~~ - Aborted;
 - [ ] ~~Learn Japanese;~~ - Aborted;
-- [x] React Native Conf EU - Poland; - **Ok!**;
+- [x] React Native Conf EU - Poland - **Ok!**;
 - [ ] Reactive Conf - Slovakia;
 - [ ] Trip to Norway;
 - [ ] Trip to Denmark;
-- [ ] Learn German;
+- [ ] Learn German - WIP;
 - [ ] Tattoo; - WIP;
 
 ### 2018
