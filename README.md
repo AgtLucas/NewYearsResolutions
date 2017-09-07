@@ -56,6 +56,7 @@
 - [ ] Trip to Denmark;
 - [ ] Learn German - WIP;
 - [ ] Tattoo; - WIP;
+- [ ] Learn ReasonML;
 
 ### 2018
 
