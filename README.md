@@ -51,9 +51,9 @@
 - [ ] ~~BrazilJS 2017~~ - Aborted;
 - [ ] ~~Learn Japanese;~~ - Aborted;
 - [x] React Native Conf EU - Poland - **Ok!**;
-- [ ] Reactive Conf - Slovakia;
-- [ ] Trip to Norway;
-- [ ] Trip to Denmark;
+- [ ] ~~Reactive Conf - Slovakia;~~ - Aborted;
+- [ ] ~~Trip to Norway;~~ - Aborted;
+- [ ] ~~Trip to Denmark;~~ - - Aborted;
 - [ ] Learn German - WIP;
 - [ ] Tattoo; - WIP;
 - [ ] Learn ReasonML;
