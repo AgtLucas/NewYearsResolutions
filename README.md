@@ -56,7 +56,7 @@
 - [ ] ~~Trip to Denmark;~~ - - Aborted;
 - [ ] Learn German - WIP;
 - [ ] Tattoo; - WIP;
-- [ ] Learn ReasonML;
+- [ ] Learn ReasonML; - WIP;
 
 ### 2018
 
