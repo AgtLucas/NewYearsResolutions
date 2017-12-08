@@ -45,7 +45,7 @@
 
 ### 2017
 
-- [x] React London -London - **Ok!**;
+- [x] React London - London - **Ok!**;
 - [ ] ~~React Europe~~ - Aborted
 - [ ] ~~Aikido - 4º Kyu~~ - Aborted;
 - [ ] ~~BrazilJS 2017~~ - Aborted;
@@ -55,7 +55,7 @@
 - [ ] ~~Trip to Norway;~~ - Aborted;
 - [ ] ~~Trip to Denmark;~~ - - Aborted;
 - [ ] Learn German - WIP;
-- [ ] Tattoo; - WIP;
+- [x] Tattoo; - **Ok!**;
 - [ ] Learn ReasonML; - WIP;
 
 ### 2018
