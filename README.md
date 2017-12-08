@@ -60,8 +60,8 @@
 
 ### 2018
 
-- [ ] ~~Aikikai - Japan~~ - Aborted;
-- [ ] Agent Conf;
+- [ ] Japan;
+- [ ] Agent Conf - WIP;
 - [ ] Learn Japanese;
 
 ---
