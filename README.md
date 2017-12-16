@@ -60,9 +60,10 @@
 
 ### 2018
 
-- [ ] Japan;
 - [ ] Agent Conf - WIP;
 - [ ] Learn Japanese;
+- [ ] Japan;
+- [ ] Norway;
 - [ ] Fox-trot Bravo India, again;
 
 ---
