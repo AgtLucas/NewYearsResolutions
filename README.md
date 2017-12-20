@@ -64,6 +64,7 @@
 - [ ] Learn Japanese;
 - [ ] Japan;
 - [ ] Norway;
+- [ ] Finland;
 - [ ] Fox-trot Bravo India, again;
 
 ---
