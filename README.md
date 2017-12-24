@@ -65,7 +65,9 @@
 - [ ] Japan;
 - [ ] Norway;
 - [ ] Finland;
+- [ ] Sweden;
 - [ ] Fox-trot Bravo India, again;
+- [ ] More blog posts
 
 ---
 
