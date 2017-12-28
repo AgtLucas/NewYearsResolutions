@@ -67,7 +67,8 @@
 - [ ] Finland;
 - [ ] Sweden;
 - [ ] Fox-trot Bravo India, again;
-- [ ] More blog posts
+- [ ] More blog posts;
+- [ ] Patterns;
 
 ---
 
