@@ -46,7 +46,7 @@
 ### 2017
 
 - [x] React London - London - **Ok!**;
-- [ ] ~~React Europe~~ - Aborted
+- [ ] ~~React Europe~~ - Aborted;
 - [ ] ~~Aikido - 4º Kyu~~ - Aborted;
 - [ ] ~~BrazilJS 2017~~ - Aborted;
 - [ ] ~~Learn Japanese;~~ - Aborted;
@@ -60,8 +60,8 @@
 
 ### 2018
 
-- [ ] Agent Conf - WIP;
-- [ ] Learn Japanese;
+- [ ] ~~Agent Conf~~ - Aborted;
+- [ ] Learn Japanese - WIP;
 - [ ] Japan;
 - [ ] Norway;
 - [ ] Finland;
